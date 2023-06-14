@@ -1,6 +1,6 @@
 # DNA Digital 360º - One-page site
 
-![Imagem de um MacBook com a tela inicial do site sendo exibida](readme/presentation.jpg)
+![Imagem de um MacBook com a tela inicial do site sendo exibida](readme/presentation.png)
 
 Este é um site one-page desenvolvido como ferramenta de apoio à equipe comercial durante seus contatos de prospeção e negócios. Apresentando informações claras e objetivas sobre a empresa, o site descreve seu principal produto, seus benefícios, lista alguns clientes de renome, exibe exemplos de funcionalidades dos tours virtuais e fornece opções de contato conforme a região do visitante.
 
