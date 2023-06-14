@@ -756,7 +756,7 @@ p a:hover {
     left: 0;
     position: fixed;
     right: 0;
-    top: -100%;
+    top: -150%;
     transition: all 400ms ease-in-out;
   }
 }
@@ -1441,7 +1441,7 @@ p a:hover {
 }
 @media (max-width: 768px) {
   .tour__iframe {
-    aspect-ratio: 1/1;
+    height: 24rem;
     margin: 4rem 0 0;
   }
 }
