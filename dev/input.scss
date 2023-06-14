@@ -377,7 +377,7 @@ p {
         left: 0;
         position: fixed;
         right: 0;
-        top: -100%;
+        top: -150%;
         transition: all 400ms ease-in-out;
       }
       &[data-visible="true"] { top: 0; }
@@ -843,7 +843,7 @@ p {
         width: 100%;
         @media (max-width: 1280px) { aspect-ratio: 16 / 9; }
         @media (max-width: 768px) {
-          aspect-ratio: 1 / 1;
+          height: 24rem;
           margin: 4rem 0 0;
         } 
       }
