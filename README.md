@@ -16,21 +16,21 @@ Acesse o [Live Preview](https://dnadigital360.netlify.app)
 
 --
 
-## Índice
+## 📚 Índice
 
-* [Edição, inserção ou remoção de conteúdo](#edição-inserção-ou-remoção-de-conteúdo)
-  * [Conteúdos com mesma estrutura padrão](#conteúdos-com-mesma-estrutura-padrão)
+* [Editar, inserir ou remover de conteúdo](#editar-inserir-ou-remover-de-conteúdo)
+  * [Conteúdos com a mesma estrutura padrão](#conteúdos-com-a-mesma-estrutura-padrão)
     * [Clientes](#clientes)
     * [Benefícios](#benefícios)
     * [Funções](#funções)
     * [Equipe comercial](#equipe-comercial)
-  * [Editando o arquivo .json](#editando-o-arquivo-json)
-  * [Obtendo classes dos ícones (Font Awesome)](#obtendo-classes-para-ícones-font-awesome)
+  * [Editar o arquivo `content.json`](#editar-o-arquivo-contentjson)
+  * [Obter classes para ícones (Font Awesome)](#obter-classes-para-ícones-font-awesome)
 * [Inserir ou configurar animação durante rolagem](#inserir-ou-configurar-animação-durante-rolagem)
 * [Inserir ou configurar contador ao exibir em tela](#inserir-ou-configurar-contador-ao-exibir-em-tela)
-* [Alteração de estilos](#alteração-de-estilos)
+* [Alterar estilos](#alterar-estilos)
 
-## Edição, inserção ou remoção de conteúdo
+## Editar, inserir ou remover de conteúdo
 
 A maior parte do conteúdo está inserido de forma estática dentro do arquivo `index.html`. As alterações devem ser realizadas diretamente neste arquivo.
 
@@ -84,7 +84,7 @@ A edição de conteúdo com estrutura padrão repetida, como **Clientes**, **Ben
 }
 ```
 
-### Editando o arquivo `content.json`
+### Editar o arquivo `content.json`
 
 O arquivo `content.json` deve seguir exatamente o padrão estrutural conforme apresentado acima. Caso contrário, ocasionará erro durante a exibição do conteúdo na página principal.
 
@@ -94,7 +94,7 @@ Em cada elemento, há uma *chave* e um *valor*. Ambos devem ser encapsulados den
 
 *Obs.: a chave (palavra antes de `:`) **NÃO** deve ser alterada.*
 
-## Obtendo classes para ícones (Font Awesome)
+## Obter classes para ícones (Font Awesome)
 
 Para adicionar os ícones nos elementos, copie as classes contidas no atributo `class=" "` fornecidas pela Font Awesome, na aba `HTML`.
 
@@ -142,7 +142,7 @@ Para inserir ou alterar um contador que inicia-se ao ser exibido em tela, adicio
 
 > Ao ser exibido em tela, o contador iniciará a contagem de 0 à 250, aumentando 1 número a cada 5 milissegundos.
 
-## Alteração de estilos
+## Alterar estilos
 
 *Primeiro, é necessário ter o `SASS` instalado em sua máquina ou no repositório local onde está trabalhando.*
 
