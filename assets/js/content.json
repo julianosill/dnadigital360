@@ -1,0 +1,128 @@
+{
+  "clients": [
+    {
+      "name": "Associação Renal Vida",
+      "logo": "./assets/images/clients/associacao-renal-vida.png",
+      "url": "https://renalvida.org.br"
+    },
+    {
+      "name": "Educação Adventista",
+      "logo": "./assets/images/clients/educacao-adventista.png",
+      "url": "https://www.educacaoadventista.org.br"
+    },
+    {
+      "name": "Honda Takai",
+      "logo": "./assets/images/clients/honda-takai.png",
+      "url": "https://www.takai.com.br"
+    },
+    {
+      "name": "Núcleo Catarinense de Decoração",
+      "logo": "./assets/images/clients/ncd.png",
+      "url": "https://www.ncd.com.br"
+    },
+    {
+      "name": "Sectur de Balneário Camboriú",
+      "logo": "./assets/images/clients/sectur-bc.png",
+      "url": "https://www.secturbc.com.br/turismo/pt-br/home"
+    },
+    {
+      "name": "SESI / SENAI",
+      "logo": "./assets/images/clients/sesi-senai.png",
+      "url": "https://sc.senai.br"
+    },
+    {
+      "name": "Shopping Park Europeu",
+      "logo": "./assets/images/clients/shopping-park-europeu.png",
+      "url": "https://www.shoppingparkeuropeu.com.br"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Destaque nos resultados",
+      "text": "Participe do Google Street View e amplie os resultados de pesquisa da sua empresa, auxiliando no destaque dela nas páginas de busca.",
+      "icon": "fa-solid fa-bullhorn"
+    },
+    {
+      "title": "Credibilidade",
+      "text": "Aumente a credibilidade do seu negócio apresentando as instalações da sua empresa e transmita confiança ao seus clientes.",
+      "icon": "fa-solid fa-building-shield"
+    },
+    {
+      "title": "Dispositivos móveis",
+      "text": "Acesse o tour virtual 360º também em dispositivos móveis, através do aplicativos Google Maps e Google Street View.",
+      "icon": "fa-solid fa-mobile-screen-button"
+    },
+    {
+      "title": "Website e Redes Sociais",
+      "text": "Incorpore o tour virtual 360º ao site da sua empresa e também compartilhe o link de acesso em suas redes sociais.",
+      "icon": "fa-solid fa-share-nodes"
+    }
+  ],
+  "functions": [
+    {
+      "name_short": "Menu lateral",
+      "name_full": "Menu lateral com links úteis",
+      "description": "Adicione diversos links internos ao seu tour virtual e também à sua empresa no menu lateral. Links direcionados para cada ambiente, dados de contato, link para redes sociais, acesso direto ao WhatsApp e muito mais.",
+      "image": "./assets/images/possibilities/menu-lateral.jpg",
+      "icon": "fa-solid fa-bars"
+    },
+    {
+      "name_short": "Pop-ups de conteúdo",
+      "name_full": "Insira pop-ups com textos, imagens e vídeo",
+      "description": "Torne seu tour virtual mais interativo e atratativo adicionando pop-ups com textos complementares, galeria de imagens, vídeos da sua empresa ou produto e botões para páginas internas ou externas.",
+      "image": "./assets/images/possibilities/pop-ups.jpg",
+      "icon": "fa-solid fa-images"
+    },
+    {
+      "name_short": "Incorporação ao site",
+      "name_full": "Incorpore o tour virtual ao seu site",
+      "description": "Incorpore o tour virtual ao site da sua empresa, blogs e outras páginas na internet. Com isso, você amplia o acesso ao seu tour sem a necessidade do usuário sair da página em que está navegando.",
+      "image": "./assets/images/possibilities/incorporacao-no-site.jpg",
+      "icon": "fa-solid fa-desktop"
+    },
+    {
+      "name_short": "Link direto de acesso",
+      "name_full": "Compartilhe o link de acesso direto ao seu tour virtual",
+      "description": "Compartilhe o link através do WhatsApp, Instagram, Facebook e outras redes sociais. É possível também compartilhar um link para um ambiente específico dentro do seu tour, como uma sala de reunião, lounge, área gourmet, etc.",
+      "image": "./assets/images/possibilities/link-direto-de-acesso.jpg",
+      "icon": "fa-solid fa-arrow-up-right-from-square"
+    },
+    {
+      "name_short": "Link para redes sociais",
+      "name_full": "Insira links para as suas redes sociais no menu lateral",
+      "description": "Adicione links para suas redes sociais no menu lateral do seu tour virtual, aumentando sua divulgação e engajamento nas redes. Insira também um link direto ao seu WhatsApp, assim o usuário poderá entrar em contato mesmo que ainda não tenha adicionado seu número aos contatos.",
+      "image": "./assets/images/possibilities/link-para-redes-sociais.jpg",
+      "icon": "fa-solid fa-mobile-screen-button"
+    },
+    {
+      "name_short": "Rota para seu endereço",
+      "name_full": "Adicione link com rota pré-definida ao seu endereço",
+      "description": "Inclua um link para a sua página no Google Maps ou com seu endereço já configurado. Assim, ao abrir o link, basta o usuário inserir seu próprio endereço para calcular a melhor rota até a sua empresa.",
+      "image": "./assets/images/possibilities/rota-para-seu-endereco.jpg",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "team": [
+    {
+      "name": "Eduardo Bellidio",
+      "role": "Vale do Itajaí, SC",
+      "image": "../assets/images/team/eduardo.jpg",
+      "mail": "mailto:name@mail.com",
+      "whatsapp": "https://api.whatsapp.com/send?phone=554712345678"
+    },
+    {
+      "name": "Douglas Rubens Jahn",
+      "role": "Região Norte e Litoral, SC",
+      "image": "../assets/images/team/douglas.jpg",
+      "mail": "mailto:name@mail.com",
+      "whatsapp": "https://api.whatsapp.com/send?phone=554712345678"
+    },
+    {
+      "name": "Fabiana Oliveira",
+      "role": "Região Oeste, SC",
+      "image": "../assets/images/team/fabiana.jpg",
+      "mail": "mailto:name@mail.com",
+      "whatsapp": "https://api.whatsapp.com/send?phone=554712345678"
+    }
+  ]
+}
